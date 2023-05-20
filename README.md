@@ -40,10 +40,7 @@ Modify the database connection parameters in the config.py file according to you
 Usage
 To use the authentication application, follow these steps:
 
-Run the application:
-
-shell
-Copy code
+<b>Run the application</b>:
 
 Register a new user by providing a unique username and a strong password.
 
@@ -57,14 +54,11 @@ Additional user fields: Expand the user registration form and the user model to 
 
 Integration with external systems: Integrate the authentication application with other systems or frameworks to enable single sign-on, two-factor authentication, or social media login options.
 
-<br>License</b>
-This project is licensed under the MIT License.
+<b>License:</b> This project is licensed under the MIT License.
 
-Contributing
-Contributions are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
+<b>Contributing</b>: Contributions are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
-Acknowledgments
-The DB Lite database for providing a lightweight and efficient storage solution.
+<b>Acknowledgments</b>: The DB Lite database for providing a lightweight and efficient storage solution.
 The community and contributors for their valuable feedback and contributions.
 Contact
 If you have any questions, suggestions, or feedback, please feel free to contact the project maintainer at zapochvamdneska@gmail.com
