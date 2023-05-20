@@ -33,11 +33,11 @@ Copy code
 ```md
 pip install -r requirements.txt
 ```
-<b>Set up the database connection:</b>
+<b>DataBase Connection:</b>
 
 Ensure that DB Lite or your chosen database management system is running.
-Modify the database connection parameters in the config.py file according to your setup.
-Usage
+Go to SecureAuth\bin\Debug\net6.0-windows and click on MyDataBase to see the data
+
 To use the authentication application, follow these steps:
 
 <b>Run the application</b>:
