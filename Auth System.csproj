@@ -1,0 +1,45 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Auth_System</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="cloud.png" />
+    <None Remove="CloudImage.png" />
+    <None Remove="Ground.png" />
+    <None Remove="Images\Bird.png" />
+    <None Remove="Images\Bush.png" />
+    <None Remove="Images\character1.png" />
+    <None Remove="Images\Drybush.png" />
+    <None Remove="Images\standBird.png" />
+    <None Remove="Images\tree1.png" />
+    <None Remove="Images\tree2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\.editorconfig" Link=".editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
+    <PackageReference Include="System.Data.SQLite" Version="1.0.117" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\Bird.png" />
+    <Resource Include="Images\Bush.png" />
+    <Resource Include="Images\character1.png" />
+    <Resource Include="Images\CloudImage.png" />
+    <Resource Include="Images\Drybush.png" />
+    <Resource Include="Images\Ground.png" />
+    <Resource Include="Images\standBird.png" />
+    <Resource Include="Images\tree2.png" />
+    <Resource Include="Images\tree1.png" />
+  </ItemGroup>
+
+</Project>

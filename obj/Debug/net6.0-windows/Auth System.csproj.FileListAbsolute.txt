@@ -1,0 +1,82 @@
+C:\Users\Erkan\source\repos\Register System\Auth System\bin\Debug\net6.0-windows\Auth System.exe
+C:\Users\Erkan\source\repos\Register System\Auth System\bin\Debug\net6.0-windows\Auth System.deps.json
+C:\Users\Erkan\source\repos\Register System\Auth System\bin\Debug\net6.0-windows\Auth System.runtimeconfig.json
+C:\Users\Erkan\source\repos\Register System\Auth System\bin\Debug\net6.0-windows\Auth System.dll
+C:\Users\Erkan\source\repos\Register System\Auth System\bin\Debug\net6.0-windows\Auth System.pdb
+C:\Users\Erkan\source\repos\Register System\Auth System\obj\Debug\net6.0-windows\Auth System.csproj.AssemblyReference.cache
+C:\Users\Erkan\source\repos\Register System\Auth System\obj\Debug\net6.0-windows\LoginWindow.g.cs
+C:\Users\Erkan\source\repos\Register System\Auth System\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Erkan\source\repos\Register System\Auth System\obj\Debug\net6.0-windows\RegisterWindow.g.cs
+C:\Users\Erkan\source\repos\Register System\Auth System\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Erkan\source\repos\Register System\Auth System\obj\Debug\net6.0-windows\Auth System_MarkupCompile.cache
+C:\Users\Erkan\source\repos\Register System\Auth System\obj\Debug\net6.0-windows\Auth System_MarkupCompile.lref
+C:\Users\Erkan\source\repos\Register System\Auth System\obj\Debug\net6.0-windows\LoginWindow.baml
+C:\Users\Erkan\source\repos\Register System\Auth System\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Erkan\source\repos\Register System\Auth System\obj\Debug\net6.0-windows\RegisterWindow.baml
+C:\Users\Erkan\source\repos\Register System\Auth System\obj\Debug\net6.0-windows\Auth System.g.resources
+C:\Users\Erkan\source\repos\Register System\Auth System\obj\Debug\net6.0-windows\Auth System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\source\repos\Register System\Auth System\obj\Debug\net6.0-windows\Auth System.AssemblyInfoInputs.cache
+C:\Users\Erkan\source\repos\Register System\Auth System\obj\Debug\net6.0-windows\Auth System.AssemblyInfo.cs
+C:\Users\Erkan\source\repos\Register System\Auth System\obj\Debug\net6.0-windows\Auth System.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\source\repos\Register System\Auth System\obj\Debug\net6.0-windows\Auth System.dll
+C:\Users\Erkan\source\repos\Register System\Auth System\obj\Debug\net6.0-windows\refint\Auth System.dll
+C:\Users\Erkan\source\repos\Register System\Auth System\obj\Debug\net6.0-windows\Auth System.pdb
+C:\Users\Erkan\source\repos\Register System\Auth System\obj\Debug\net6.0-windows\Auth System.genruntimeconfig.cache
+C:\Users\Erkan\source\repos\Register System\Auth System\obj\Debug\net6.0-windows\ref\Auth System.dll
+C:\Users\Erkan\source\repos\Register System\Auth System\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Erkan\source\repos\Register System\Auth System\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\Erkan\source\repos\Register System\Auth System\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\Erkan\source\repos\Register System\Auth System\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Erkan\source\repos\Register System\Auth System\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Erkan\source\repos\Register System\Auth System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Erkan\source\repos\Register System\Auth System\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Erkan\source\repos\Register System\Auth System\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Erkan\source\repos\Register System\Auth System\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Erkan\source\repos\Register System\Auth System\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Erkan\source\repos\Register System\Auth System\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Erkan\source\repos\Register System\Auth System\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Erkan\source\repos\Register System\Auth System\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Erkan\source\repos\Register System\Auth System\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Erkan\source\repos\Register System\Auth System\obj\Debug\net6.0-windows\Auth System.csproj.CopyComplete
+C:\Users\Erkan\Desktop\Auth System\obj\Debug\net6.0-windows\Auth System.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\Auth System\obj\Debug\net6.0-windows\2DGame.baml
+C:\Users\Erkan\Desktop\Auth System\obj\Debug\net6.0-windows\2DGame.g.cs
+C:\Users\Erkan\Desktop\Auth System\obj\Debug\net6.0-windows\LoginWindow.g.cs
+C:\Users\Erkan\Desktop\Auth System\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Erkan\Desktop\Auth System\obj\Debug\net6.0-windows\RegisterWindow.g.cs
+C:\Users\Erkan\Desktop\Auth System\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Erkan\Desktop\Auth System\obj\Debug\net6.0-windows\Auth System_MarkupCompile.cache
+C:\Users\Erkan\Desktop\Auth System\obj\Debug\net6.0-windows\Auth System_MarkupCompile.lref
+C:\Users\Erkan\Desktop\Auth System\obj\Debug\net6.0-windows\Auth System.dll
+C:\Users\Erkan\Desktop\Auth System\obj\Debug\net6.0-windows\refint\Auth System.dll
+C:\Users\Erkan\Desktop\Auth System\obj\Debug\net6.0-windows\Auth System.pdb
+C:\Users\Erkan\Desktop\Auth System\bin\Debug\net6.0-windows\Auth System.exe
+C:\Users\Erkan\Desktop\Auth System\bin\Debug\net6.0-windows\Auth System.deps.json
+C:\Users\Erkan\Desktop\Auth System\bin\Debug\net6.0-windows\Auth System.runtimeconfig.json
+C:\Users\Erkan\Desktop\Auth System\bin\Debug\net6.0-windows\Auth System.dll
+C:\Users\Erkan\Desktop\Auth System\bin\Debug\net6.0-windows\Auth System.pdb
+C:\Users\Erkan\Desktop\Auth System\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Erkan\Desktop\Auth System\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\Erkan\Desktop\Auth System\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\Erkan\Desktop\Auth System\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Erkan\Desktop\Auth System\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Erkan\Desktop\Auth System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Erkan\Desktop\Auth System\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Erkan\Desktop\Auth System\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Erkan\Desktop\Auth System\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Erkan\Desktop\Auth System\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Erkan\Desktop\Auth System\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Erkan\Desktop\Auth System\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Erkan\Desktop\Auth System\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Erkan\Desktop\Auth System\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Erkan\Desktop\Auth System\obj\Debug\net6.0-windows\LoginWindow.baml
+C:\Users\Erkan\Desktop\Auth System\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Erkan\Desktop\Auth System\obj\Debug\net6.0-windows\RegisterWindow.baml
+C:\Users\Erkan\Desktop\Auth System\obj\Debug\net6.0-windows\Auth System.g.resources
+C:\Users\Erkan\Desktop\Auth System\obj\Debug\net6.0-windows\Auth System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan\Desktop\Auth System\obj\Debug\net6.0-windows\Auth System.AssemblyInfoInputs.cache
+C:\Users\Erkan\Desktop\Auth System\obj\Debug\net6.0-windows\Auth System.AssemblyInfo.cs
+C:\Users\Erkan\Desktop\Auth System\obj\Debug\net6.0-windows\Auth System.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\Auth System\obj\Debug\net6.0-windows\Auth System.csproj.CopyComplete
+C:\Users\Erkan\Desktop\Auth System\obj\Debug\net6.0-windows\Auth System.genruntimeconfig.cache
+C:\Users\Erkan\Desktop\Auth System\obj\Debug\net6.0-windows\ref\Auth System.dll
